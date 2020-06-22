@@ -1,0 +1,6 @@
+File name		(MD5)
+train_imgs.zip		(6602e9f095721a234f378bcae41ff0d3)
+headers_TRAIN.csv	(c187288669c1e2740b4e1e44be7986a6)
+users_TRAIN.csv		(0eb553484b6b815e576f908eef57447b)
+img_info_TRAIN.csv	(c82009234566f08631aec6e526a1d0a6)
+popularity_TRAIN.csv	(3b01770bacf981df797057e5037c83a5)
